@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "OpenTradePro is a DEX enabling seamless perpetual and spot trading.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
+  "VITE_ENABLED_MENUS": "Markets,Trading,Swap,Portfolio",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "http://t.me/opentradepro",
